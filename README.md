@@ -538,17 +538,16 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 💬 Support
 
-- **Documentation:** [Full Docs]
-- **Issues:** [GitHub Issues]
+- **Documentation:** 
+- **Issues:** 
 - **Email:** azeemkhannnn7@gmail.com
 
 ---
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [@yourusername](https://github.com/yourusername)
+- **Azeem khan** - *Initial work* - [@azeemkhannn](https://github.com/azeemkhannn)
 
-See also the list of [contributors](https://github.com/yourusername/track-pod-system/contributors) who participated in this project.
 
 ---
 
@@ -562,10 +561,9 @@ See also the list of [contributors](https://github.com/yourusername/track-pod-sy
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/track-pod-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/track-pod-system?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/track-pod-system)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/track-pod-system)
+![GitHub stars](https://img.shields.io/github/stars/azeemkhannn/track-pod-system?style=social)
+![GitHub forks](https://img.shields.io/github/forks/azeemkhannn/track-pod-system?style=social)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/azeemkhannn/track-pod-system)
 
 ---
 
