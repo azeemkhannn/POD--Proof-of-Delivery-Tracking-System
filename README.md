@@ -395,7 +395,7 @@ curl -X POST http://localhost:3000/api/dispatches/DISPATCH_ID/deliveries/0/compl
   }'
 ```
 
-[Full API Documentation →](./API.md)
+
 
 ---
 
@@ -485,7 +485,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ```
 MIT License
@@ -515,7 +515,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - [ ] Background location tracking drains battery (optimization needed)
 - [ ] Large POD images may take time to upload on slow connections
 
-See [Issues](https://github.com/yourusername/track-pod-system/issues) for full list.
+
 
 ---
 
@@ -538,10 +538,9 @@ See [Issues](https://github.com/yourusername/track-pod-system/issues) for full l
 
 ## 💬 Support
 
-- **Documentation:** [Full Docs](./docs)
-- **Issues:** [GitHub Issues](https://github.com/yourusername/track-pod-system/issues)
-- **Email:** support@trackpod.com
-- **Discord:** [Join our community](https://discord.gg/trackpod)
+- **Documentation:** [Full Docs]
+- **Issues:** [GitHub Issues]
+- **Email:** azeemkhannnn7@gmail.com
 
 ---
 
