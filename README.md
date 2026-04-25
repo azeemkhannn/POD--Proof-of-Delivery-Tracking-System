@@ -7,7 +7,7 @@ A complete, production-ready delivery tracking system with geofence verification
 [![React Native](https://img.shields.io/badge/react--native-0.73.0-blue)](https://reactnative.dev/)
 [![MongoDB](https://img.shields.io/badge/mongodb-%3E%3D6.0-green)](https://www.mongodb.com/)
 
-![Track POD Banner](https://via.placeholder.com/1200x400/4CAF50/FFFFFF?text=Track+POD+System)
+# 🚚 Track POD Banner
 
 ---
 
