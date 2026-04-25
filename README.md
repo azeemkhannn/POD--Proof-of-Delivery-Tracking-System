@@ -559,13 +559,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/azeemkhannn/track-pod-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/azeemkhannn/track-pod-system?style=social)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/azeemkhannn/track-pod-system)
-
----
 
 <p align="center">
   Made with ❤️ for delivery businesses worldwide
