@@ -8,7 +8,6 @@ A complete, production-ready delivery tracking system with geofence verification
 [![MongoDB](https://img.shields.io/badge/mongodb-%3E%3D6.0-green)](https://www.mongodb.com/)
 
 # 🚚 Track POD Banner
-
 ---
 
 ## 📋 Table of Contents
